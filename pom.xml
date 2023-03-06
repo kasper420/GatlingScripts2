@@ -29,7 +29,7 @@
 </dependency>
 </dependencies>
 <build>
-<testSourceDirectory>src/test/scala</testSourceDirectory>
+<testSourceDirectory>simulations/computerdatabase</testSourceDirectory>
 <plugins>
 <plugin>
 <groupId>io.gatling</groupId>
